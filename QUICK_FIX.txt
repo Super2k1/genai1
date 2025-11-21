@@ -1,0 +1,43 @@
+# ⚡ QUICK FIX - 60 SECOND SOLUTION
+
+## The Problem
+```
+Error 429: Quota Exceeded
+```
+Free tier Google API quota is exhausted.
+
+## The Solution
+**Enable paid billing** (takes 2 minutes, costs pennies)
+
+### Step-by-Step
+1. 🌐 Go to: https://ai.google.dev/
+2. 🔑 Sign in with your Google account
+3. 💳 Click "Set up paid plan" → Add credit card
+4. ✅ Confirm → Done!
+
+## That's It!
+Your API key works **immediately** after billing is enabled.
+
+## No Code Changes Needed ✓
+
+Your app is **100% ready** - just needs billing setup.
+
+---
+
+## Quick Links
+- **Setup**: https://ai.google.dev/
+- **Monitor Usage**: https://ai.dev/usage
+- **Cost Calculator**: https://ai.google.dev/pricing
+
+---
+
+## Cost?
+- **Analyzing 5 CVs**: ~$0.01 or less
+- **Pay-as-you-go**: Only charged for what you use
+
+## Then Run
+```bash
+python interactive_rag.py
+```
+
+✨ **All set!** Your CV RAG Agent will work perfectly! ✨
